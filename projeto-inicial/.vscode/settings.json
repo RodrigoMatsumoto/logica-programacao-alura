@@ -1,0 +1,11 @@
+{
+    "cSpell.language": "en,pt,pt-BR,lorem,en-GB,en-US",
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:logica-js-projeto_inicial}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
